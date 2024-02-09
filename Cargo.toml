@@ -9,7 +9,7 @@ license = "MIT"
 repository = "https://github.com/RizalAchp/rzcalc"
 homepage = "https://github.com/RizalAchp/rzcalc"
 categories = ["mathematics", "parsing"]
-keywords = ["calculator", "parser", "tokenizer", "recursive-descent", "math", "util"]
+keywords = ["calculator", "parser", "recursive-descent", "math", "util"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
