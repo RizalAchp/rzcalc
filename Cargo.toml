@@ -2,6 +2,14 @@
 name = "rzcalc"
 version = "0.1.0"
 edition = "2021"
+authors = ["Rizal Achmad Pahlevi <rizal.ahmadp@gmail.com>"]
+description = "Simple calculator expression parser and evaluater using recursive descent parser, written in rust"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/RizalAchp/rzcalc"
+homepage = "https://github.com/RizalAchp/rzcalc"
+categories = ["mathematics", "parsing"]
+keywords = ["calculator", "parser", "tokenizer", "recursive-descent", "math", "util"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
